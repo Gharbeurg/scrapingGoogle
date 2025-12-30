@@ -22,7 +22,7 @@ KEYWORDS: List[str] = [
     "pneumologie"
 ]
 
-OUTPUT_FILE: str = "D:/CODING/.data/Google_news_resultat.txt"
+OUTPUT_FILE: str = "C:/PYTHON/.data/Google_news_resultat.txt"
 
 RESULTS_PER_KEYWORD: int = 10
 REQUEST_TIMEOUT_SEC: int = 20

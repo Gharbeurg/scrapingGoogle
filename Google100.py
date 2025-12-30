@@ -33,7 +33,7 @@ KEYWORDS: List[str] = [
     "pneumologue",
 ]
 
-OUTPUT_FILE: str = "D:/CODING/.data/Google_recherche_resultat.txt"
+OUTPUT_FILE: str = "C:/PYTHON/.data/Google_recherche_resultat.txt"
 
 GOOGLE_API_KEY: str = "AIzaSyANXjkhXF4Gkh9k0fY6FWXTtm8xaVi-YoI"
 GOOGLE_CX: str = "e6979c65f1e394cf9"
